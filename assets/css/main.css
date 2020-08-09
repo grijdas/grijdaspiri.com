@@ -2625,6 +2625,9 @@ input, select, textarea {
 		color: #47D3E5;
 	}
 
+/* Center Video */
+	.centervideo { margin: 0 auto; width: 400px; }
+
 /* Image */
 
 	.image {
