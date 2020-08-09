@@ -2878,7 +2878,6 @@ input, select, textarea {
 	ul.icons {
 		cursor: default;
 		list-style: none;
-		padding-left: 0;
 	}
 
 		ul.icons li {
@@ -6868,8 +6867,8 @@ input, select, textarea {
 			display: block;
 			position: relative;
 			overflow: hidden;
-			width: 22.5rem;
-			max-width: 75vw;
+			height: 22.5rem;
+			max-height: 75vw;
 		}
 
 			.gallery.style2 article .image {
